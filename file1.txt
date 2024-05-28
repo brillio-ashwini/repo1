@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 this is for GitHub testing
-=======
 updating the file
->>>>>>> 3ed4011a1eca657bb9140f67f221e7dc4393b68e
+
+added something from main
+
